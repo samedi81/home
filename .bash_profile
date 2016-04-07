@@ -5,3 +5,5 @@ PATH="/Library/Frameworks/Python.framework/Versions/2.7/bin:${PATH}"
 export PATH
 
 export PS1="\w\n\$? \u@\h > \[$(tput sgr0)\]"
+
+source ~/.alias
